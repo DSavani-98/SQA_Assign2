@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SQA_Assignment2
+namespace SQA_Assign2
 {
     public class Circle
     {
